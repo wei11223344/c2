@@ -5,9 +5,13 @@
              |___/       
 
 
+
+
 # c2 script made by Ash
 This script is designed to start a c2 server(command and control)
 When connected a shell will spawn allowing remote control to the computer. Ill be guiding you on how to set this up.
+# Warning
+We dont believe this will ever be released to the public. This is only designed to connect to bots.
 # Use the arguments ex: python3 c2.py --lhost 192.168.1.15 --log test.html
 This will start a server with the lhost of 192.168.1.15 and the default port(6000) and log everything in a neat html file.
 # Premade c2exe file.
