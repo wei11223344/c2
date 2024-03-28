@@ -1,3 +1,10 @@
+   ___             _         __    ___  _         
+  / _ \_______    (_)__ ____/ /_  / _ \(_)__  ___ 
+ / ___/ __/ _ \  / / -_) __/ __/  \_, / / _ \/ -_)
+/_/  /_/  \___/_/ /\__/\__/\__/  /___/_/_//_/\__/ 
+             |___/       
+
+
 # c2 script made by Ash
 This script is designed to start a c2 server(command and control)
 When connected a shell will spawn allowing remote control to the computer. Ill be guiding you on how to set this up.
